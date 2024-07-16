@@ -104,7 +104,3 @@ The project involves:
 ## References
 - [MovieLens Dataset](https://files.grouplens.org/datasets/movielens/ml-100k/u.data)
 - [Collaborative Filtering - RDD-based API](https://spark.apache.org/docs/latest/mllib-collaborative-filtering.html)
-
----
-
-Feel free to customize this README further to better fit your project and specific details.
