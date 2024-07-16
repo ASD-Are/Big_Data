@@ -100,7 +100,7 @@ The project involves:
 
 ## Appendix
 - [Screenshot and environment set up references](https://github.com/ASD-Are/Big_Data/blob/main/Collaborative%20Filtering%20-%20RDD-based%20API/CS570_week8_q2_20073_Aron_Dagniew.pdf)
-- [Google Slide Presentation]()
+- [Google Slide Presentation](https://docs.google.com/presentation/d/16oUk6CpeVVPuNj00w7IbgYwfBArYr5isFiRI06uhcX0/edit?usp=sharing)
 ## References
 - [MovieLens Dataset](https://files.grouplens.org/datasets/movielens/ml-100k/u.data)
 - [Collaborative Filtering - RDD-based API](https://spark.apache.org/docs/latest/mllib-collaborative-filtering.html)
