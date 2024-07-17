@@ -54,14 +54,8 @@ This readme document outlines the steps to set up and run a movie recommendation
      --input_path_ratings=gs://big_data_ml_recommendation_sys/ratings.csv
      ```
 
-### Screenshot of Execution Results
 
-- Screenshots should be taken at various stages, including:
-  - Uploading datasets to GCS.
-  - Modifying and running the PySpark script in Google Colab.
-  - Submitting and monitoring the PySpark job in Google Cloud Dataproc.
-  - Viewing the recommendation results.
 
 ### Appendix
-[Google Slide](https://docs.google.com/presentation/d/1MslhW6L9oKag5c4O-vUINS5lUSUxacKLWuiYr20ygyA/edit?usp=sharing)
-[Screenshot and clear steps in pdf](https://github.com/ASD-Are/Big_Data/blob/main/Collaborative%20Filtering%20-%20Implementation%203/CS570_week8_h2_q4_20073_Aron_Dagniew.pdf)
+- [Google Slide](https://docs.google.com/presentation/d/1MslhW6L9oKag5c4O-vUINS5lUSUxacKLWuiYr20ygyA/edit?usp=sharing)
+- [Screenshot and clear steps in pdf](https://github.com/ASD-Are/Big_Data/blob/main/Collaborative%20Filtering%20-%20Implementation%203/CS570_week8_h2_q4_20073_Aron_Dagniew.pdf)
